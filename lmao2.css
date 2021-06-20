@@ -1,0 +1,43 @@
+li{
+  list-style: none;
+  margin :2vw;
+  font-size: 5vh
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-family: monospace;
+  display: block; 
+  padding: 2vw
+}
+nav{
+  width: 100vw;
+  background-color: white;
+  cursor: pointer;
+}
+
+ul{
+  display: flex;
+  flex-direction: column;
+}
+
+li:hover{
+  background-color:#AFE0FF ;
+}
+
+button{
+  display: inline-block;
+  padding: 2vw;
+  font-size: 3vh;
+  background-color: #AFE0FF;
+  border: none;
+  align-self: flex-start;
+}
+
+
+img:hover{
+  background-color:white ;
+}
+
+
+

@@ -1,0 +1,17 @@
+h1{
+  font-family: Merienda;
+  font-size: 70px;
+  text-shadow: -4px 1px 0 #AFE0FF,
+                5px 4px 0 #AFE0FF,
+                5px -1px 0 #AFE0FF,
+               -1px -1px 0 #AFE0FF;
+
+}
+
+input{
+	background-color: #AFE0FF
+}
+
+textarea{
+	background-color: #AFE0FF
+}
